@@ -1,5 +1,7 @@
 # Basic Git Bash Operations and Git Commands
 
+![GitBashLogo](https://github.com/user-attachments/assets/d41a2977-563e-4b02-86c8-1067aedffde8)
+
 *Welcome to the repository for "Basic Git Bash Operations and Git Commands"! This repository serves as a beginner-friendly guide to using Git Bash and essential Git commands.*
 
 # Introduction:
